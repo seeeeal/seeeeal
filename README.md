@@ -4,6 +4,7 @@
 
 - 📒 Write down the books I have read in - [Blog](https://seeeeal.fun)
 - 📚 优质书单推荐网站 - [下一本读什么](https://xiayibendushenme.com)
+- 🔧 在线工具合集网站 - [仓鼠工具箱](https://www.hamstertools.org)
 
 <!--
 **seeeeal/seeeeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

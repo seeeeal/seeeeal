@@ -3,8 +3,8 @@
 #### Entry-level full stack, more familiar with Android
 
 - 📒 Write down the books I have read in - [Blog](https://seeeeal.fun)
-- 📚 优质书单推荐网站 - [下一本读什么](https://xiayibendushenme.com)
 - 🔧 在线工具合集网站 - [仓鼠工具箱](https://www.hamstertools.org)
+- 📷 EXIF Frame 快速为图片增加相机水印 - [EXIF Frame](https://www.exifframe.org)
 
 <!--
 **seeeeal/seeeeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
